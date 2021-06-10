@@ -9,5 +9,5 @@ Main repository [here](https://github.com/jchudb93/100-days-of-code-go)
 
 ### R1D1
 
-Basic typing and testing.
+Basic typing and testing. ref: https://quii.gitbook.io/learn-go-with-tests
 
