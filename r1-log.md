@@ -2,6 +2,9 @@
 
 The log of my #100DaysOfCode challenge. Started on June 9, Wednesday, 2021.
 
+### Main repo
+Main repository [here](https://github.com/jchudb93/100-days-of-code-go)
+
 ## Log
 
 ### R1D1
